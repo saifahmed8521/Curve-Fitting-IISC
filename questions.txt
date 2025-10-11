@@ -1,0 +1,10 @@
+Why use adam what are these eqautions?
+methods to optimizations categpry wise (inital values,boundary conditions,-inf to inf,)
+why did we converge to these two methods
+All libraries which we define And their funtions which we use specifically
+From begnning to end summarize review of code in flowchart (we do this than that and explain each steps)
+How did we decide the final result direction of answer
+        values of SSE,RMSE,R^2,adjusted R^2 from Matlab and explain these errors in details
+        And prove mathematically how are a,b,c,d parameters are better (by comaporing the results of our code and matlab)
+Use of AI/ML(optimization) in this task
+Is there any tradeoff? 

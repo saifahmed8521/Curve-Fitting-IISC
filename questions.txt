@@ -24,21 +24,21 @@ Done::Title: Optimization of Feno paramaeter in Ring Resonator Based Photonic In
 
 Abstarct:
 
-Introduction: Done::About Ring Resonator Based Photonic Integrated Circuits(Wiki),
+DONE::Introduction: Done::About Ring Resonator Based Photonic Integrated Circuits(Wiki),
                 Done::What is Feno resonance and Feno Paramater
                 Done::Role of basic Optimization in Photonic Integrated Circuits(Wiki)
                 What we are plannin to do-> In this Internship we optimized the q parameter to obtaining a better curve fit for feno resonance
 
-Matematical Modelling: First Para from Conference paper 
+DONE::Matematical Modelling: First Para from Conference paper 
                         How did we obtain a better 'q' paramet than matlab (answers of last three questions)
 
 DONE::Procedure(use better word for procedure):
 
-Results and Discussions: insert RMSE ,SSE,R2,Adj-R2 table
-                        WHat value of q parameter we obtained
+Results and Discussions: DONE::insert RMSE ,SSE,R2,Adj-R2 table
+                        DONE::WHat value of q parameter we obtained
                         What does this show(Result section in conference paper)
 
-Future Scope: We have tried it optimizing using NN but training in Physics Informed Equations still is under processing 
+DONE::Future Scope: We have tried it optimizing using NN but training in Physics Informed Equations still is under processing 
 
 reference: Accepted Journal paper reference
                 All references from conference paper 
